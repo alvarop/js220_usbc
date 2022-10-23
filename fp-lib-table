@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Joulescope")(type "KiCad")(uri "${KIPRJMOD}/Joulescope.pretty")(options "")(descr ""))
+)

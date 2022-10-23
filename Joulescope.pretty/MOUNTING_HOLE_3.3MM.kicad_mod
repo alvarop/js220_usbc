@@ -1,0 +1,14 @@
+(footprint "MOUNTING_HOLE_3.3MM" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -4.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 88719db2-4e15-4741-a859-a22f9d2f5518)
+  )
+  (fp_text value "MOUNTING_HOLE_3.3MM" (at 0 5.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 6be46aaa-376d-45f6-bd5d-9bd22d0afaa3)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 3.3 3.3) (drill 3.3) (layers *.Mask) (tstamp 8f44fd7a-9899-47d8-be68-3a4b4299d577))
+)

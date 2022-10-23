@@ -1,0 +1,14 @@
+(footprint "TINY_TP" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp bcbb8fbe-6eb7-4c75-b42c-b647fb2d3629)
+  )
+  (fp_text value "TINY_TP" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ae2af72b-46a6-4b8f-9f6d-296c9f903bf4)
+  )
+  (pad "1" smd circle (at 0 0.3) (size 0.1 0.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6e163ecb-cd29-4880-80a8-3eecdbbddbce))
+)
