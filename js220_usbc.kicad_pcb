@@ -1077,7 +1077,7 @@
   (gr_text "JS220 USB-C" (at 125 107.5) (layer "B.SilkS") (tstamp 08a4aec6-c687-420b-bdc0-833b8fdb7983)
     (effects (font (size 2 2) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "by @alvaroprieto" (at 121.5 109.5) (layer "B.SilkS") (tstamp 54c1e32c-ef45-44e1-87cf-f0293c8d9e96)
+  (gr_text "alvarop.com" (at 119.05 109.5) (layer "B.SilkS") (tstamp 54c1e32c-ef45-44e1-87cf-f0293c8d9e96)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "v1.1" (at 112 108) (layer "B.SilkS") (tstamp 9808fffc-3eb3-4584-ae61-18b24b1a48a2)
