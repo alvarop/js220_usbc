@@ -6,8 +6,8 @@
 
   (title_block
     (title "Joulescope JS220 USB-C")
-    (date "2023-03-31")
-    (rev "1.2")
+    (date "2023-04-01")
+    (rev "1.3")
     (company "Alvaro Prieto")
   )
 
